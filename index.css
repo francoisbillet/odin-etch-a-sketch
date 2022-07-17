@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+/* FlexBox */
+/* #container {
+  display: flex;
+  flex-wrap: wrap;
+} */
+
+/* Float */
+/* #container div {
+  float: left;
+} */
+
+/* Inline-block */
+/* #container div {
+  display: inline-block;
+} */
+
+/* CSS Grid */
+#container {
+  width: 960px;
+  height: 500px;
+  /* display: grid;
+  grid-template-columns: repeat(16, auto);
+  grid-template-rows: repeat(16, auto); */
+}
